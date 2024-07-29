@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @m-stanleysk
-- 👀 I’m interested in becoming a web developer
-- 🌱 I’m currently refreshing and upgrading my skills on freeCodeCamp.org
+- 👀 I’m starting out as a web designer
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: My favourite Star Trek character is Garak
 <!---
